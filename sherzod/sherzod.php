@@ -10,3 +10,4 @@ echo "It is 7:57 PM";
 echo "Hi everyone, today is 06/04/2020";
 echo "Assalomu alaykum, nima yangiliklar?";
 
+ 
