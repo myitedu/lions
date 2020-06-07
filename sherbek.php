@@ -1,2 +1,4 @@
 <?php
-echo "Hello from Sherbek!";
+echo "Hello from Sherbek";
+
+echo "I am Sherbek";
