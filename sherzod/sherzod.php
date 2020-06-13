@@ -12,4 +12,6 @@ echo "<hr>";
 echo "Hi everyone, today is 06/04/2020";
 echo "<hr>";
 echo "Assalomu alaykum, nima yangiliklar?";
+echo "<hr>";
+echo "Kod ishlamayapti";
 
